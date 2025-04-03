@@ -35,10 +35,6 @@ I enjoy learning new technologies and contributing to open-source projects.
 
 ---
 
-## 📫 Let's Connect!
 
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-🌍 [Website](https://yourwebsite.com)  
 
 If you like my work, consider giving a ⭐ to my repos! 🚀
