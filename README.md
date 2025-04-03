@@ -14,7 +14,7 @@
 ## 🎭 Who Am I?
 
 🚀 **Full-Stack Dev | Tech Explorer | UI/UX Enthusiast**  
-💡 Innovating with **MERN | Laravel | React Native | AI & SEO**  
+💡 Innovating with **MERN | Laravel | React Native **  
 🔥 Building things that matter. Making pixels dance. 
 
 ---
@@ -37,7 +37,6 @@
 🍽 **Nafir Platform** - A mentorship & networking site (Next.js + Laravel)  
 🛍 **Minimoon E-commerce** - A multi-vendor fashion powerhouse  
 💰 **Donation Platform** - A system connecting donors to those in need  
-🤖 **AI Arabic Assistant** - A smart Arabic writing helper
 
 ---
 
