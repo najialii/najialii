@@ -22,7 +22,7 @@ I enjoy learning new technologies and contributing to open-source projects.
 
 ## 🛠️ What I'm Working On
 
-🔹 **Nafir Platform** - A community-driven mentorship and networking site built with MERN & Laravel  
+🔹 **Nafir Platform** - A community-driven mentorship and networking site built with Next & Laravel  
 🔹 **Minimoon E-commerce** - A multi-vendor platform for fashion retail  
 🔹 **Donation Platform** - A system that allows users to post and receive financial aid  
 
