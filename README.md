@@ -26,7 +26,6 @@
 - 📡 **Databases:** MongoDB | MySQL  
 - 📱 **Mobile:** React Native (Expo, NativeWind)  
 - 🚀 **SEO & Ranking:** **Ranken Waral** - My SEO project to dominate Google  
-- 🎮 **Fun:** Building AI-powered Arabic writing assistant
 
 > "Code is like humor. If you have to explain it, it’s bad." – Cory House
 
