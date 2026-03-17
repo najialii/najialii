@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Naji 👋</h1>
 
-<p align="center">Full-Stack Software Engineer | Specialized in B2B & eCommerce Solutions</p>
+<p align="center">Full-Stack Software Developer</p>
 
 ---
 
@@ -39,3 +39,4 @@ I’m a full-stack developer focused on building reliable, scalable web and mobi
   <a href="https://najialinasr.vercel.app/">Portfolio</a> • 
   <a href="https://wa.me/251933955241">WhatsApp</a>
 </p>
+![](https://komarev.com/ghpvc/?username=najialii)
