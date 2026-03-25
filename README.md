@@ -1,59 +1,51 @@
-<h1 align="center">Hi, I'm Naji 👋</h1>
+<div align="center">
+  
+# Naji Khalid
+**Architecting Scalable Systems for the MENA Region**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najialii&label=Profile%20Views&color=0078d4&style=flat-square" alt="najialii" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://najialinasr.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najilii249@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/251933955241)
 
-<p align="center">
-  <strong>Full-Stack Software Developer | Specialist in Scalable MENA Solutions</strong>
-</p>
+<img src="https://komarev.com/ghpvc/?username=najialii&label=Profile%20Views&color=000000&style=flat-square" alt="najialii" />
 
-<p align="center">
-  <a href="https://najialinasr.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://wa.me/251933955241">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:najilii249@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🚀 About Me
-I’m a full-stack developer focused on building reliable, scalable web and mobile applications for the MENA region. Based in **Riyadh** and **Addis Ababa**, I specialize in clean architecture and high-performance systems.
+> I am a Full-Stack Developer and startup builder operating between Riyadh and Addis Ababa. I specialize in taking complex business logic—like B2B logistics and fintech—and turning it into clean, high-performance, type-safe applications. 
+
+### ⚡ Core Engineering Focus
+I don't just write code; I build products from zero to one. My current architectural playground involves:
+- **Frontend Ecosystem:** Next.js, React, TypeScript, TailwindCSS (Focus on high-contrast, minimalist UI).
+- **Backend & APIs:** Laravel, Node.js, and scaling microservices with Go (Golang) and Java Spring Boot.
+- **Infrastructure:** AWS, Docker, PostgreSQL, Redis.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Production Labs & Startup Projects
 
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=nodesdotjs&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
+I build "labs" to test complex architectures and solve real regional problems. 
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=najialii&show_icons=true&theme=transparent&hide_border=true&title_color=0078d4&icon_color=0078d4&text_color=586069" alt="Naji's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialii&layout=compact&theme=transparent&hide_border=true&title_color=0078d4&text_color=586069" alt="Top Languages" width="48%" />
-</p>
+* **[SudanPay]** — *Semi-Automated Payment Gateway*
+  Architected a monorepo payment solution for Sudan. Integrated WebSockets for real-time verification and secure HMAC webhooks to bridge the gap in local banking APIs.
+* **[NAL]** — *B2B Logistics SaaS*
+  Developing a high-performance trade bridge for supply chains operating across Cairo and Riyadh. 
+* **[Safqa]** — *Smart Bartering Engine*
+  Engineered a complex multi-item matching algorithm and bilingual UI for a modern bartering marketplace.
+* **[Baeed Job Monitor]** — *Chrome Extension*
+  Built a background service worker extension to monitor and alert users of new job listings in real-time.
 
 ---
 
-### 📁 Featured Projects
+### 📊 Engineering Analytics
 
-- **Minimoon eCommerce:** High-traffic platform with Tabby integration (Next.js, AWS).
-- **B2B Logistics SaaS:** Distribution system for Cairo and Riyadh supply chains.
-- **Safqa:** Smart bartering marketplace for the Saudi market.
-- **Mentorship Portal:** High-concurrency Laravel backend with RBAC.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najialii&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" alt="Naji's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialii&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" alt="Top Languages" width="48%" />
+</div>
 
 ---
-
-### 📚 Currently Learning
-- ⚡ **System Architecture:** Scalable microservices with **Go (Golang)**.
-- ☕ **Enterprise Systems:** Robust APIs with **Java Spring Boot**.
+<div align="center">
+  <i>"Resilient engineering. Built to scale."</i>
+</div>
