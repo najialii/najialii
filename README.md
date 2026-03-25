@@ -46,6 +46,4 @@ I build "labs" to test complex architectures and solve real regional problems.
 </div>
 
 ---
-<div align="center">
-  <i>"Resilient engineering. Built to scale."</i>
-</div>
+
