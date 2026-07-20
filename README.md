@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Naji Khalid — full-stack engineer and startup builder, building payment and logistics rails between the Gulf and the Horn of Africa" />
+<img src="assets/hero.svg" width="100%" alt="Naji Khalid — full-stack engineer and startup builder, building the cloud platform the region ships on" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=F5C15C&center=true&vCenter=true&width=720&height=44&lines=%24+building+payment+rails+for+Sudan+%E2%80%94+SudanPay;%24+bridging+Cairo+%E2%87%84+Riyadh+supply+chains+%E2%80%94+NAL;%24+matching+multi-item+trades+%E2%80%94+Safqa;%24+from+zero+to+one%2C+again+and+again" alt="rotating list of current builds: SudanPay, NAL, Safqa" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=F5C15C&center=true&vCenter=true&width=720&height=44&lines=%24+git+push+%E2%86%92+production%2C+in+one+step;%24+deploys+%C2%B7+managed+databases+%C2%B7+storage+%C2%B7+billing;%24+a+cloud+platform+built+for+MENA+builders;%24+from+zero+to+one%2C+again+and+again" alt="rotating lines: git push to production in one step; deploys, managed databases, storage, billing; a cloud platform built for MENA builders" />
 
 <br/>
 
@@ -18,55 +18,11 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### <samp>// ventures</samp>
+### <samp>// now building</samp>
 
 <div align="center">
-<img src="assets/terminal.svg" width="88%" alt="Terminal session — whoami: full-stack engineer and startup builder between Riyadh and Addis Ababa; ls ventures: sudanpay, nal-logistics, safqa, baeed" />
+<img src="assets/terminal.svg" width="88%" alt="Terminal session — whoami: full-stack engineer and startup builder between Riyadh and Addis Ababa; ls platform: deploy-engine, managed-databases, object-storage, billing" />
 </div>
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 💸 SudanPay — <em>payment gateway</em>
-
-Monorepo payment rails for Sudan: WebSocket-driven real-time verification and HMAC-secured webhooks, bridging the gap left by local banking APIs.
-
-<img src="https://img.shields.io/badge/Next.js-0A0E1A?style=flat-square&logo=nextdotjs&logoColor=F5C15C" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-0A0E1A?style=flat-square&logo=nodedotjs&logoColor=FF7E5F" alt="Node.js" /> <img src="https://img.shields.io/badge/WebSockets-0A0E1A?style=flat-square&logo=socketdotio&logoColor=9D7CFF" alt="WebSockets" /> <img src="https://img.shields.io/badge/PostgreSQL-0A0E1A?style=flat-square&logo=postgresql&logoColor=F5C15C" alt="PostgreSQL" />
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚚 NAL — <em>B2B logistics SaaS</em>
-
-High-performance trade bridge for supply chains operating between Cairo and Riyadh.
-
-<img src="https://img.shields.io/badge/TypeScript-0A0E1A?style=flat-square&logo=typescript&logoColor=F5C15C" alt="TypeScript" /> <img src="https://img.shields.io/badge/Laravel-0A0E1A?style=flat-square&logo=laravel&logoColor=FF7E5F" alt="Laravel" /> <img src="https://img.shields.io/badge/Redis-0A0E1A?style=flat-square&logo=redis&logoColor=9D7CFF" alt="Redis" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔄 Safqa — <em>smart bartering engine</em>
-
-Multi-item matching algorithm behind a bilingual (AR/EN) marketplace UI for modern bartering.
-
-<img src="https://img.shields.io/badge/Next.js-0A0E1A?style=flat-square&logo=nextdotjs&logoColor=F5C15C" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-0A0E1A?style=flat-square&logo=typescript&logoColor=FF7E5F" alt="TypeScript" /> <img src="https://img.shields.io/badge/PostgreSQL-0A0E1A?style=flat-square&logo=postgresql&logoColor=9D7CFF" alt="PostgreSQL" />
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔔 Baeed — <em>job monitor extension</em>
-
-Background service-worker Chrome extension that watches job boards and alerts on new listings in real time.
-
-<img src="https://img.shields.io/badge/JavaScript-0A0E1A?style=flat-square&logo=javascript&logoColor=F5C15C" alt="JavaScript" /> <img src="https://img.shields.io/badge/Chrome_Extension-0A0E1A?style=flat-square&logo=googlechrome&logoColor=FF7E5F" alt="Chrome Extension" />
-
-</td>
-</tr>
-</table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
