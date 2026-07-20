@@ -1,4 +1,4 @@
-<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Naji Khalid — full-stack engineer and startup builder, building payment and logistics rails between the Gulf and the Horn of Africa">
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Naji Khalid — full-stack engineer and startup builder, building the cloud platform the region ships on">
 	<style>
 		text { font-family: ui-monospace, "Cascadia Code", "JetBrains Mono", "Fira Code", Menlo, Consolas, monospace; }
 		.fi { opacity: 0; animation: fi 0.9s ease-out forwards; }
@@ -66,8 +66,8 @@
 		<text x="70" y="146" font-size="46" font-weight="700" letter-spacing="6" fill="url(#g1)">NAJI KHALID</text>
 	</g>
 	<g class="fi d3">
-		<text x="70" y="186" font-size="15" fill="#B9C0D4">Building payment &amp; logistics rails</text>
-		<text x="70" y="210" font-size="15" fill="#B9C0D4">between the Gulf and the Horn of Africa.</text>
+		<text x="70" y="186" font-size="15" fill="#B9C0D4">Building the cloud platform the region</text>
+		<text x="70" y="210" font-size="15" fill="#B9C0D4">ships on — from git push to production.</text>
 	</g>
 	<g class="fi d4">
 		<text x="70" y="248" font-size="12" letter-spacing="2" fill="#F5C15C">RUH · CAI · KRT · ADD — from zero to one</text>
