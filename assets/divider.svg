@@ -1,0 +1,21 @@
+<svg width="1000" height="6" viewBox="0 0 1000 6" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="">
+	<style>
+		.sweep { animation: sw 3.4s ease-in-out infinite; }
+		@keyframes sw { from { transform: translateX(-220px); } to { transform: translateX(1220px); } }
+		@media (prefers-reduced-motion: reduce) { .sweep { animation: none; opacity: 0; } }
+	</style>
+	<defs>
+		<linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+			<stop offset="0" stop-color="#F5C15C" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#FF7E5F" stop-opacity="0.5"/>
+			<stop offset="1" stop-color="#9D7CFF" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+			<stop offset="0" stop-color="#F5C15C" stop-opacity="0"/>
+			<stop offset="0.5" stop-color="#F5C15C"/>
+			<stop offset="1" stop-color="#F5C15C" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<rect y="2.25" width="1000" height="1.5" rx="0.75" fill="url(#base)"/>
+	<rect class="sweep" y="1.5" width="200" height="3" rx="1.5" fill="url(#hot)"/>
+</svg>
